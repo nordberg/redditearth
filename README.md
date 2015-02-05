@@ -1,2 +1,2 @@
 # redditearth
-Posts images from /r/earthporn
+Posts images from /r/earthporn to Twitter
